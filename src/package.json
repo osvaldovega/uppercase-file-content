@@ -1,19 +1,19 @@
 {
   "author": "Osvaldo Vega A",
-  "name": "uppercaseme-file-content",
+  "name": "uppercase-file-content",
   "description": "This module convert file content to uppercase.",
   "version": "1.0.0",
   "repository": {
-    "url": ""
+    "url": "https://github.com/osvaldovega/uppercase-file-content.git"
   },
-  "main": "./lib/uppercaseme-file-content",
+  "main": "./lib/uppercase-file-content",
   "keywords": [
     "upper",
     "case",
     "file"
   ],
   "bin": {
-    "uppercaseme-file-content": "./bin/uppercaseme-file-content"
+    "uppercase-file-content": "./bin/uppercase-file-content"
   },
   "dependencies": {
     "commander": "2.9.0"
